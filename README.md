@@ -82,7 +82,7 @@
 ---
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharindu-lakmal&show_icons=true&locale=en&layout=compact" alt="tharindu-lakmal" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharindu-lakmal&theme=algolia&exclude_repo=github-readme-stats,anuraghazra.github.io" alt="tharindu-lakmal" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharindu-lakmal&show_icons=true&locale=en" alt="tharindu-lakmal" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=tharindu-lakmal&theme=algolia&show_icons=true" alt="tharindu-lakmal" /></p>
