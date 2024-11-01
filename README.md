@@ -3,22 +3,39 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<!-- table -->
+<p align="center">
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+<table align="center">
+<tr border="none">
+<td width="50%" align="left"> 
 
-- :pushpin: I’m currently learning **Node.js, Tailwind, GSAP**
+  - 🔭 I’m currently working on **`React, Nodejs, MongoDB`**
+  
+  - :pushpin: I’m currently learning **`Node.js, Tailwind, GSAP`**
+  
+  - 👨‍💻 All of my projects are available at [Updating](Updating)
+    
+  - :bulb: Ask me about **`React, CSS`**
+    
+  - 📫 How to reach me **1tharindulakmal.k8@gmail.com**
+    
+  -  :nerd_face: Always `learning new things`.
+    
+</td>
+<td width="50%" align="center">
+  <a target="_blank" align="center">
+    <img align="right" top="500" alt="GIF" src="https://github.com/Tharindu-Lakmal/Tharindu-Lakmal/blob/main/animation/Background_Motion%201.gif" width="500">
+  </a>
+</td>
+</tr>
+</table>
 
-- 👨‍💻 All of my projects are available at [Updating](Updating)
+</p>
+<!-- table -->
 
-- :bulb: Ask me about **React, CSS**
-
-- 📫 How to reach me **tharindulakmal.k8@gmail.com**
-
-<br/><br/><br/><br/><br/>
 ---
+
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
@@ -86,8 +103,38 @@
 
 ---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharindu-lakmal&theme=codeSTACKr&exclude_repo=github-readme-stats,anuraghazra.github.io" alt="tharindu-lakmal" />
-</p>
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <img align="right"  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tharindu-lakmal&theme=codeSTACKr&hide_border=false" />
+  <br></br>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tharindu-lakmal&theme=codeSTACKr&show_icons=true" alt="tharindu-lakmal" />
+</td>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=tharindu-lakmal&theme=codeSTACKr&show_icons=true" alt="tharindu-lakmal" /></p>
+<td width="50%" align="center">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharindu-lakmal&theme=codeSTACKr&exclude_repo=github-readme-stats,anuraghazra.github.io" alt="tharindu-lakmal" />
+  </td>
+</tr>
+</table>
+
+<!--profile visit count
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=tharindu-lakmal&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
+-->
+
+------
+
+
+[Tharindu-Lakmal](https://github.com/Tharindu-Lakmal)
+
+Last Edited on: 01/11/2024
+
+
+
+
