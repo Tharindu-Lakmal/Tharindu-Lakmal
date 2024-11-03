@@ -36,7 +36,7 @@
 
 ---
 
-
+<!--
 <h3 align="center">Connect with me</h3>
 <p align="center">
   <a href="https://linkedin.com/in/tharindu lakmal" target="_blank">
@@ -45,6 +45,13 @@
   <a href="https://fb.com/tharindu lakmal" target="_blank">
     <img align="center" src="https://github.com/Tharindu-Lakmal/Tharindu-Lakmal/blob/main/icons/facebook.svg" alt="tharindu lakmal" height="60" width="60" />
   </a>
+</p>
+-->
+
+<h3 align="center">Connect with me</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/tharindu lakmal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://fb.com/tharindu lakmal" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 </p>
 
 ---
