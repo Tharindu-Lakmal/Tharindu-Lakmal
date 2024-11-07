@@ -14,7 +14,7 @@
   
   - :pushpin: I’m currently learning **`Node.js, Tailwind, GSAP`**
   
-  - 👨‍💻 All of my projects are available at [Updating](Updating)
+  - 👨‍💻 All of my projects are available at [tharindulakmal.pages.dev](https://tharindulakmal.pages.dev/)
     
   - :bulb: Ask me about **`React, CSS`**
     
