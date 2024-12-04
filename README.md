@@ -106,6 +106,9 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/Tharindu-Lakmal/Tharindu-Lakmal/blob/main/icons/Photoshop.svg" alt="photoshop" width="60" height="60"/> 
   </a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Tharindu-Lakmal/Tharindu-Lakmal/blob/main/icons/gsap-greensock_dark.svg" alt="photoshop" width="60" height="60"/> 
+  </a>
 </p>
 
 ---
