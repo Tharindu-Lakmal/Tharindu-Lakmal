@@ -23,7 +23,7 @@
     
   - :bulb: Ask me about **`React, CSS`**
     
-  - 📫 How to reach me **1tharindulakmal.k8@gmail.com**
+  - 📫 How to reach me **tharindulakmal.k8@gmail.com**
     
   -  :nerd_face: Always `learning new things`.
     
