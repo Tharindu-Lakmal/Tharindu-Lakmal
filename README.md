@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tharindu Lakmal</h1>
-<h3 align="center">I'm a Software Engineering undergraduate and passionate about designing :art: and developing :technologist: websites.</h3>
+<h3 align="left">I'm a Software Engineering undergraduate and passionate about designing :art: and developing :technologist: websites. My main goal is to create products that not only meet user needs but exceed expectations, delivering both functionality and a seamless experience.</h3>
+
+<br>
+
+- <p>I craft visually appealing, user-friendly designs to bring ideas to life. My focus is on creating intuitive layouts, engaging aesthetics, and seamless user experiences that resonate with users.</p>
+- <p>I develop scalable, high-performance website using the latest technologies. I ensure every aspect of a website runs smoothly, delivering both functionality and efficiency.</p>
 
 ---
 
@@ -143,7 +148,7 @@
 
 [Tharindu-Lakmal](https://github.com/Tharindu-Lakmal)
 
-Last Edited on: 01/11/2024
+Last Edited on: 08/12/2024
 
 
 
