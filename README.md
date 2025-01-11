@@ -1,33 +1,62 @@
 <h1 align="center">Hi 👋, I'm Tharindu Lakmal</h1>
-<h3 align="center">I'm a Software Engineering undergraduate and passionate about designing :art: and developing :technologist: websites.</h3>
+<h3 align="left">I'm a Software Engineering undergraduate and passionate about designing :art: and developing :technologist: websites. My main goal is to create products that not only meet user needs but exceed expectations, delivering both functionality and a seamless experience.</h3>
+
+<br>
+
+- <p>I craft visually appealing, user-friendly designs to bring ideas to life. My focus is on creating intuitive layouts, engaging aesthetics, and seamless user experiences that resonate with users.</p>
+- <p>I develop scalable, high-performance website using the latest technologies. I ensure every aspect of a website runs smoothly, delivering both functionality and efficiency.</p>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<!-- table -->
+<p align="center">
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+<table align="center">
+<tr border="none">
+<td width="50%" align="left"> 
 
-- :pushpin: I’m currently learning **Node.js, Tailwind, GSAP**
+  - 🔭 I’m currently working on **`React, Nodejs, MongoDB`**
+  
+  - :pushpin: I’m currently learning **`Node.js, Tailwind, GSAP`**
+  
+  - 👨‍💻 All of my projects are available at [tharindulakmal.pages.dev](https://tharindulakmal.pages.dev/)
+    
+  - :bulb: Ask me about **`React, CSS`**
+    
+  - 📫 How to reach me **tharindulakmal.k8@gmail.com**
+    
+  -  :nerd_face: Always `learning new things`.
+    
+</td>
+<td width="50%" align="center">
+  <a target="_blank" align="center">
+    <img align="right" top="500" alt="GIF" src="https://github.com/Tharindu-Lakmal/Tharindu-Lakmal/blob/main/animation/Background_Motion%201.gif" width="500">
+  </a>
+</td>
+</tr>
+</table>
 
-- 👨‍💻 All of my projects are available at [Updating](Updating)
+</p>
+<!-- table -->
 
-- :bulb: Ask me about **React, CSS**
-
-- 📫 How to reach me **tharindulakmal.k8@gmail.com**
-
-<br/><br/><br/><br/><br/>
 ---
+
+<!--
+<h3 align="center">Connect with me</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/tharindu lakmal" target="_blank">
+    <img align="center" src="https://github.com/Tharindu-Lakmal/Tharindu-Lakmal/blob/main/icons/LinkedIn.svg"   alt="tharindu lakmal" height="60" width="60" />
+  </a>
+  <a href="https://fb.com/tharindu lakmal" target="_blank">
+    <img align="center" src="https://github.com/Tharindu-Lakmal/Tharindu-Lakmal/blob/main/icons/facebook.svg" alt="tharindu lakmal" height="60" width="60" />
+  </a>
+</p>
+-->
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/tharindu lakmal" target="blank">
-    <img align="center" src="https://github.com/Tharindu-Lakmal/Tharindu-Lakmal/blob/main/icons/LinkedIn.svg"   alt="tharindu lakmal" height="60" width="60" />
-  </a>
-  <a href="https://fb.com/tharindu lakmal" target="blank">
-    <img align="center" src="https://github.com/Tharindu-Lakmal/Tharindu-Lakmal/blob/main/icons/facebook.svg" alt="tharindu lakmal" height="60" width="60" />
-  </a>
+  <a href="https://www.linkedin.com/in/tharindulakmal99" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.facebook.com/tharindulakmal99" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 </p>
 
 ---
@@ -82,12 +111,45 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/Tharindu-Lakmal/Tharindu-Lakmal/blob/main/icons/Photoshop.svg" alt="photoshop" width="60" height="60"/> 
   </a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Tharindu-Lakmal/Tharindu-Lakmal/blob/main/icons/gsap-greensock_dark.svg" alt="photoshop" width="60" height="60"/> 
+  </a>
 </p>
 
 ---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharindu-lakmal&theme=codeSTACKr&exclude_repo=github-readme-stats,anuraghazra.github.io" alt="tharindu-lakmal" />
-</p>
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <img align="right"  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tharindu-lakmal&theme=codeSTACKr&hide_border=false" />
+  <br></br>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tharindu-lakmal&theme=codeSTACKr&show_icons=true" alt="tharindu-lakmal" />
+</td>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=tharindu-lakmal&theme=codeSTACKr&show_icons=true" alt="tharindu-lakmal" /></p>
+<td width="50%" align="center">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharindu-lakmal&theme=codeSTACKr&exclude_repo=github-readme-stats,anuraghazra.github.io" alt="tharindu-lakmal" />
+  </td>
+</tr>
+</table>
+
+<!--profile visit count
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=tharindu-lakmal&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
+-->
+
+------
+
+
+[Tharindu-Lakmal](https://github.com/Tharindu-Lakmal)
+
+Last Edited on: 08/12/2024
+
+
+
+
